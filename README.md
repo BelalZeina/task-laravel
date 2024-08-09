@@ -126,6 +126,7 @@ Before you start, make sure your system meets the following requirements:
 ## API Routes
 
 The following API routes are available:
+https://documenter.getpostman.com/view/30494622/2sA3s3GB1Q
 
 ### Authentication
 - `POST /api/register` - Register a new user.
