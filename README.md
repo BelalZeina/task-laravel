@@ -19,8 +19,7 @@ Before you start, make sure your system meets the following requirements:
 - PHP >= 8.0
 - Composer
 - MySQL or any other supported database
-- Node.js and npm (for front-end assets)
-- Laravel 9.x
+- Laravel 10.x
 
 ## Installation
 
