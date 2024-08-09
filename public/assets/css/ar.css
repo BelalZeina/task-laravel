@@ -1,0 +1,26 @@
+.language-select .dropdown-toggle:after,
+.dropdown-toggle::after {
+  margin-right: auto !important;
+  /* margin-left: -1.5rem !important; */
+}
+
+.mega-menu * {
+  text-align: right !important;
+}
+
+.mega-menu .list-unstyled {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.form-check .form-check-input {
+  float: right !important;
+}
+
+#offcanvas-search .search-form:before {
+  right: 0px !important;
+  left: auto !important;
+}
+#offcanvas-search .search-form .form-control {
+  padding-right: 25px !important;
+}

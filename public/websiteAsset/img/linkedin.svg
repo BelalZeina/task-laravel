@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Frame" transform="translate(0 0)">
+    <rect id="Frame-2" data-name="Frame" width="24" height="24" fill="none"/>
+    <g id="Group">
+      <g id="Group-2" data-name="Group">
+        <path id="Vector" d="M24,12A12,12,0,1,1,12,0,12,12,0,0,1,24,12Z" transform="translate(0 0)" fill="#007ab9"/>
+        <g id="Group-3" data-name="Group">
+          <path id="Vector-2" data-name="Vector" d="M13.38,7.838v4.947H10.511V8.17c0-1.159-.414-1.95-1.453-1.95A1.569,1.569,0,0,0,7.587,7.268a1.963,1.963,0,0,0-.095.7v4.818H4.624s.038-7.818,0-8.627H7.493V5.381c-.006.01-.014.019-.019.028h.019V5.381a2.848,2.848,0,0,1,2.585-1.425c1.887,0,3.3,1.233,3.3,3.882ZM3.227,1.49A1.5,1.5,0,0,1,1.6,2.981H1.586A1.495,1.495,0,1,1,1.623,0a1.49,1.49,0,0,1,1.6,1.49ZM.17,4.158H3.038v8.627H.17Z" transform="translate(5.79 5.127)" fill="#f1f2f2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"name": "YourPurchases",
+		"path": "../.."
+	},
+	{
+		"name": "assets",
+		"path": "../../../../template/themeforest-1p5ST0mn-sandbox-modern-multipurpose-bootstrap-5-template/sandbox340/dist/assets"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5502,
+    "liveServer.settings.multiRootWorkspaceName": "YourPurchases"
+  }
+}

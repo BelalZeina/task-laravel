@@ -1,0 +1,101 @@
+body {
+    text-align: left;
+    direction: ltr;
+}
+
+.header .header-inner .header-start .header-nav ul {
+    gap: 0 16px;
+}
+.header .header-inner .header-start .header-nav ul li a {
+    text-wrap: nowrap;
+}
+.iti__country-list {
+    inset-inline-start: 5px;
+    inset-inline-end: auto;
+}
+
+.form-group-box .form-select,
+.form-group .form-select {
+    background-position: 95%;
+}
+
+.sec-pattern img,
+.hero-section .hero-section__inner .hero-section-pattern img {
+    transform: rotateY(180deg);
+}
+
+.our-services-section .sec-pattern img:nth-child(2),
+.about-services-section .sec-pattern img:nth-child(1),
+.services-page .services-boxs .sec-pattern img,
+.about-page .about-sec .sec-pattern img,
+.about-page .browse-products-sec .sec-pattern img {
+    transform: translateY(-50%) rotateY(180deg);
+}
+
+.hero-section .hero-section__inner .img img {
+    transform: rotateY(180deg);
+}
+
+.hero-section .hero-section__inner .hero-bg {
+    transform: translateY(-50%) rotateY(180deg);
+}
+
+.categories-aside > ul li .categorie-link .categorie-arrow {
+    transform: rotate(-180deg) translateY(-50%);
+    top: 0;
+}
+
+@media (max-width: 1199px) {
+    .categories-aside > ul li .categorie-link .categorie-arrow {
+        top: -10px;
+    }
+
+}
+
+.cs-breadcrumb .breadcrumb .breadcrumb-item::before {
+    float: left !important;
+    padding-inline-start: var(--bs-breadcrumb-item-padding-x);
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+    transform: rotateX(180deg) !important;
+}
+
+.about-page .about-sec .about-sec_inner .img-box .img {
+    border-radius: 67px 0 67px 67px;
+}
+
+.account-page .cs-breadcrumb .breadcrumb .breadcrumb-item::before {
+    transform: rotateY(0);
+}
+
+.account-card-body .orders-wrap .orders-list .order-box div .order-details svg {
+    transform: rotate(180deg);
+}
+
+.phone-input-box-icon.input-box-icon > span {
+    inset-inline-end: 24px;
+    inset-inline-start: auto;
+}
+
+.product-info-bottom .tab-content #productContent * {
+    text-align: left;
+    direction: ltr;
+}
+
+.header .header-inner .header-action .header-user .user-auth .dropdown-menu {
+    left: auto !important;
+    right: 0 !important;
+    top: 18px !important;
+}
+.header .header-inner .header-action .header-user .user-auth .dropdown-menu:after {
+    inset-inline-end: 0;
+}
+
+@media (max-width: 767px) {
+    .header .header-inner .header-action .header-lang .dropdown .dropdown-menu {
+        right: 0 !important;
+        left: unset !important;
+    }
+}
